@@ -2,3 +2,5 @@ langgraph
 langchain
 langsmith
 pydantic
+python-dotenv
+langchain-groq
