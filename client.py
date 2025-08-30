@@ -12,12 +12,12 @@ async def main():
         {
             "math":{
                 "command":"python",
-                "args":["mathserver.py"], ## Ensure correct absolute path
+                "args":["mathserver.py"],
                 "transport":"stdio",
             
             },
             "weather": {
-                "url": "http://localhost:8000/mcp",  # Ensure server is running here
+                "url": "http://localhost:8000/mcp", 
                 "transport": "streamable_http",
             }
 
