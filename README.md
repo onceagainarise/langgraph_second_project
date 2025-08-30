@@ -1,1 +1,1 @@
-this project is currently been developed and in its first phase we are tyring to develop a normal chat application using langgraph
+this project give a basic understanding of how langgraph, connecting tools to llm and taking human interreputed suggestion with a buffer memory 
