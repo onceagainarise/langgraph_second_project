@@ -5,3 +5,5 @@ pydantic
 python-dotenv
 langchain-groq
 langchain-tavily
+langchain-client
+langchain-mcp-adapters
